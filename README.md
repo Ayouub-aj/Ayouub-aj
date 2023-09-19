@@ -73,5 +73,9 @@
 ###
 
 <br clear="both">
+<<<<<<< HEAD
 
 <img src="https://raw.githubusercontent.com/Ayouub-aj/Ayouub-aj/output/snake.svg" alt="Snake animation" />
+=======
+###
+>>>>>>> e829a042f2ad3601395b45c6a625d41b54b1f6c0
