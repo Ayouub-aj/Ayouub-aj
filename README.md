@@ -2,7 +2,7 @@
 
 # $ Ayouub-aj
 
-**`Systems & Developer`**
+**`Building systems`**
 
 🇲🇦 Morocco &nbsp;·&nbsp; Githubbing 👾
 
