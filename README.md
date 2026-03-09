@@ -1,16 +1,135 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ayouub-aj/Ayouub-aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ◈ Ayouub-aj
 
-Here are some ideas to get you started:
+**`Systems & Developer`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇲🇦 Morocco &nbsp;·&nbsp; Githubbing 👾
+
+[![GitHub followers](https://img.shields.io/github/followers/Ayouub-aj?style=for-the-badge&logo=github&logoColor=00ffcc&labelColor=050f0a&color=050f0a)](https://github.com/Ayouub-aj)
+[![GitHub stars](https://img.shields.io/github/stars/Ayouub-aj?style=for-the-badge&logo=github&logoColor=00ffcc&labelColor=050f0a&color=050f0a)](https://github.com/Ayouub-aj)
+![Status](https://img.shields.io/badge/status-building-00ffcc?style=for-the-badge&labelColor=050f0a)
+
+</div>
+
+---
+
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=Ayouub-aj&show_icons=true&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12&count_private=true"/>
+
+### `$ whoami`
+
+```yaml
+handle:   Ayouub-aj
+location: Morocco 🇲🇦
+school:   42 Network
+focus:
+  - Systems Programming (C / C++)
+  - Development
+  - AI & Data (Python / Kaggle)
+  - Linux & Dev Environments
+vibe:     "Githubbing 👾"
+```
+
+<br clear="right"/>
+
+---
+
+### ⚡ Tech Stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-050f0a?style=for-the-badge&logo=c&logoColor=00ffcc)
+![C++](https://img.shields.io/badge/C++-050f0a?style=for-the-badge&logo=cplusplus&logoColor=00ffcc)
+![Python](https://img.shields.io/badge/Python-050f0a?style=for-the-badge&logo=python&logoColor=00ffcc)
+![PHP](https://img.shields.io/badge/PHP-050f0a?style=for-the-badge&logo=php&logoColor=00ffcc)
+![TypeScript](https://img.shields.io/badge/TypeScript-050f0a?style=for-the-badge&logo=typescript&logoColor=00ffcc)
+![Shell](https://img.shields.io/badge/Shell-050f0a?style=for-the-badge&logo=gnubash&logoColor=00ffcc)
+![HTML5](https://img.shields.io/badge/HTML5-050f0a?style=for-the-badge&logo=html5&logoColor=00ffcc)
+![CSS3](https://img.shields.io/badge/CSS3-050f0a?style=for-the-badge&logo=css3&logoColor=00ffcc)
+![Linux](https://img.shields.io/badge/Linux-050f0a?style=for-the-badge&logo=linux&logoColor=00ffcc)
+![Git](https://img.shields.io/badge/Git-050f0a?style=for-the-badge&logo=git&logoColor=00ffcc)
+![MinilibX](https://img.shields.io/badge/MinilibX-050f0a?style=for-the-badge&logo=opengl&logoColor=00ffcc)
+
+</div>
+
+---
+
+### 🗂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Ayouub-aj/Minitalk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=Minitalk&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
+</a>
+<a href="https://github.com/Ayouub-aj/born2beroot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=born2beroot&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
+</a>
+<a href="https://github.com/Ayouub-aj/So_long">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=So_long&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
+</a>
+<a href="https://github.com/Ayouub-aj/kaggle_learn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=kaggle_learn&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
+</a>
+<a href="https://github.com/Ayouub-aj/Formation-ai-augmented-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=Formation-ai-augmented-backend&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
+</a>
+<a href="https://github.com/Ayouub-aj/printf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=printf&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
+</a>
+
+</div>
+
+<br/>
+
+| &nbsp; | Project | Description | Lang |
+|:---:|---|---|:---:|
+| ◈ | [**Minitalk**](https://github.com/Ayouub-aj/Minitalk) | Client-server communication via Unix signals | `C` |
+| ◈ | [**So\_long**](https://github.com/Ayouub-aj/So_long) | 2D game built with MinilibX on macOS & Linux | `C` |
+| ◈ | [**born2beroot**](https://github.com/Ayouub-aj/born2beroot) | Full guide to 42's system admin & Linux hardening project | `HTML` |
+| ◈ | [**printf**](https://github.com/Ayouub-aj/printf) | Custom `ft_printf` built from scratch | `C` |
+| ◈ | [**kaggle\_learn**](https://github.com/Ayouub-aj/kaggle_learn) | All Kaggle learning resources in one repo | `Python` |
+| ◈ | [**Formation-ai-augmented-backend**](https://github.com/Ayouub-aj/Formation-ai-augmented-backend) | AI-augmented backend training — Maroc Numeric × Simplon | `PHP` |
+| ◈ | [**.dotfiles**](https://github.com/Ayouub-aj/.dotfiles) | My personal shell & tool config files | `Shell` |
+| ◈ | [**your-exam-simulation**](https://github.com/Ayouub-aj/your-exam-simulation) | 42 exam simulation environment, ready to use | `C++` |
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ayouub-aj&theme=merko&background=050f0a&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=aaffdd&dates=446655&border=00ffcc33&border_radius=12"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayouub-aj&layout=compact&theme=merko&bg_color=050f0a&title_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12&langs_count=8"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayouub-aj&bg_color=050f0a&color=00ffcc&line=00ffcc&point=ffffff&area=true&area_color=00ffcc15&border_color=00ffcc33&radius=12)](https://github.com/Ayouub-aj)
+
+</div>
+
+---
+
+### 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050f0a?style=for-the-badge&logo=linkedin&logoColor=00ffcc)](https://linkedin.com/in/your-linkedin)
+[![Twitter / X](https://img.shields.io/badge/Twitter_/_X-050f0a?style=for-the-badge&logo=x&logoColor=00ffcc)](https://x.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050f0a?style=for-the-badge&logo=vercel&logoColor=00ffcc)](https://your-portfolio.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayouub-aj&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+
+![footer](https://img.shields.io/badge/──────────────────────────────────────────-050f0a?style=for-the-badge)
+
+*Built from the ground up, one commit at a time.*
+
+</div>
