@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◈ Ayouub-aj
+# $ Ayouub-aj
 
 **`Systems & Developer`**
 
@@ -14,9 +14,7 @@
 
 ---
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=Ayouub-aj&show_icons=true&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12&count_private=true"/>
-
-### `$ whoami`
+## `$ whoami`
 
 ```yaml
 handle:   Ayouub-aj
@@ -59,22 +57,16 @@ vibe:     "Githubbing 👾"
 <div align="center">
 
 <a href="https://github.com/Ayouub-aj/Minitalk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=Minitalk&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
 </a>
 <a href="https://github.com/Ayouub-aj/born2beroot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=born2beroot&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
 </a>
 <a href="https://github.com/Ayouub-aj/So_long">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=So_long&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
 </a>
 <a href="https://github.com/Ayouub-aj/kaggle_learn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=kaggle_learn&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
 </a>
 <a href="https://github.com/Ayouub-aj/Formation-ai-augmented-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=Formation-ai-augmented-backend&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
 </a>
 <a href="https://github.com/Ayouub-aj/printf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayouub-aj&repo=printf&theme=merko&bg_color=050f0a&title_color=00ffcc&icon_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12"/>
 </a>
 
 </div>
@@ -100,11 +92,8 @@ vibe:     "Githubbing 👾"
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayouub-aj&theme=merko&background=050f0a&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=aaffdd&dates=446655&border=00ffcc33&border_radius=12"/>
 
-<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayouub-aj&layout=compact&theme=merko&bg_color=050f0a&title_color=00ffcc&text_color=aaffdd&border_color=00ffcc33&border_radius=12&langs_count=8"/>
 
-<br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayouub-aj&bg_color=050f0a&color=00ffcc&line=00ffcc&point=ffffff&area=true&area_color=00ffcc15&border_color=00ffcc33&radius=12)](https://github.com/Ayouub-aj)
 
